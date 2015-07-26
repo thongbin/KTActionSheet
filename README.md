@@ -1,7 +1,9 @@
 # KTActionSheet
 Custom ActionSheet With Blocks
 
-##Usage
+* blur background
+
+#Usage
 
 	KTActionSheet *sheet = [[KTActionSheet alloc]initWithlist:@[@"确认退出",@"取消"] height:0
 	inView:self ItemSelectedBlock:^(KTActionSheet *sheet,NSInteger index)
