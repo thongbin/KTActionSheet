@@ -10,4 +10,4 @@ Custom ActionSheet With Blocks
 	}];
 	[sheet show];
 
-![img](/blob/master/img.png)
+![img](/img.png)
